@@ -2,4 +2,4 @@
 
 Proyek Pertama saya
 
-Copyright Afandi @2017
+Copyright by afandi @2017
